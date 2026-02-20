@@ -1,0 +1,8 @@
+# Robots.txt for Aadhya Dental Care - Koramangala
+# https://girishkgit.github.io/aadhya-dental-koramangala/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://girishkgit.github.io/aadhya-dental-koramangala/sitemap.xml
